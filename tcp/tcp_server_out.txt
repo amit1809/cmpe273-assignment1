@@ -1,0 +1,38 @@
+Server started at port 5000
+Connected Client:('127.0.0.1', 62662)
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Connected Client:('127.0.0.1', 62663)
+Received data:A:ping
+Received data:B:ping
+Received data:A:ping
+Received data:B:ping
+Received data:A:ping
+Received data:B:ping
+Received data:A:ping
+Received data:B:ping
+Received data:A:ping
+Received data:B:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
+Received data:A:ping
