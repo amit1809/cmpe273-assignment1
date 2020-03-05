@@ -1,0 +1,89 @@
+amitsharma@Amits-MacBook-Pro udp % python3 udp_server.py
+Server started at port 4000
+('127.0.0.1', 63846): A:[2873]:1:iwubzoqtgggvzwlnnuyq
+Sequence number received: [2873]
+('127.0.0.1', 63846): A:[520]:2:ziywtheqzmryciqrdjyy
+Sequence number received: [520]
+('127.0.0.1', 63846): A:[9035]:3:cxfqjzlrfivglnsfvjvc
+Sequence number received: [9035]
+('127.0.0.1', 63846): A:[369]:4:epzoddpvayqvwrpvilwc
+Sequence number received: [369]
+('127.0.0.1', 63846): A:[4677]:5:vbxrbojgzingmwszwtfc
+Sequence number received: [4677]
+('127.0.0.1', 63846): A:[3154]:6:vdfepzhvbhbrltpzitmr
+Sequence number received: [3154]
+('127.0.0.1', 63846): A:[2867]:7:bhomjczjjhizgqgwvytu
+Sequence number received: [2867]
+('127.0.0.1', 63846): A:[6226]:8:puramefddscqeeyehhcu
+Sequence number received: [6226]
+('127.0.0.1', 63846): A:[5758]:9:oazzmzdiwaalvxggqreo
+Sequence number received: [5758]
+('127.0.0.1', 63846): A:[1534]:10:aioneopapdryqamtymfm
+Sequence number received: [1534]
+('127.0.0.1', 63846): A:[6469]:11:piaxyonlrjedmplviaec
+Sequence number received: [6469]
+('127.0.0.1', 63846): A:[7506]:12:xuqjwtvppoihfpzldvev
+Sequence number received: [7506]
+('127.0.0.1', 63846): A:[6632]:13:ygemucwbvwgdcazcsiui
+Sequence number received: [6632]
+('127.0.0.1', 63846): A:[8762]:14:suverwnerrplszkcpkro
+Sequence number received: [8762]
+('127.0.0.1', 63846): A:[4602]:15:mttyybtygtkdutlyqbsw
+Sequence number received: [4602]
+('127.0.0.1', 63846): A:[998]:16:lbgxtpehaceyaeontkuv
+Sequence number received: [998]
+('127.0.0.1', 63846): A:[756]:17:vequhfgubqgrkcmwzpqj
+Sequence number received: [756]
+('127.0.0.1', 63846): A:[7009]:18:zqwriynooktpilhqimkg
+Sequence number received: [7009]
+('127.0.0.1', 63846): A:[3100]:19:hfiwzpimlfmszzmpxnvm
+Sequence number received: [3100]
+('127.0.0.1', 63846): A:[1296]:20:euwbcywvdwuvpsiwcsvm
+Sequence number received: [1296]
+('127.0.0.1', 63846): A:[6450]:21:livvqqjsmjjpywahiivb
+Sequence number received: [6450]
+('127.0.0.1', 63846): A:[3138]:22:qfwxgqysnipmiaqnynat
+Sequence number received: [3138]
+('127.0.0.1', 63846): A:[2098]:23:mzpxyjrtmmpynzcuxfzf
+Sequence number received: [2098]
+('127.0.0.1', 63846): A:[9220]:24:gpngutackqwekaubkwll
+Sequence number received: [9220]
+('127.0.0.1', 63846): A:[8755]:25:gkxqbtriqntdzhymyjmt
+Sequence number received: [8755]
+('127.0.0.1', 63846): A:[4269]:26:bwjuaiiadpkkxhgkmtdh
+Sequence number received: [4269]
+('127.0.0.1', 63846): A:[7111]:27:ekxrrqxxwwkjtczwgzdh
+Sequence number received: [7111]
+('127.0.0.1', 63846): A:[819]:28:ymcjqednjhmuescyomxp
+Sequence number received: [819]
+('127.0.0.1', 63846): A:[7327]:29:xkvdjpszckrdoexndquy
+Sequence number received: [7327]
+('127.0.0.1', 63846): A:[7998]:30:ehinyookjmskychfxrts
+Sequence number received: [7998]
+('127.0.0.1', 63846): A:[959]:31:ezlwbpwkmxobsgknmnik
+Sequence number received: [959]
+('127.0.0.1', 63846): A:[5704]:32:vikncyamvavrzywdrent
+Sequence number received: [5704]
+('127.0.0.1', 63846): A:[3977]:33:dsdysfinedakpvjwcrlp
+Sequence number received: [3977]
+('127.0.0.1', 63846): A:[4158]:34:bsdtcmunpwzuotzumvtp
+Sequence number received: [4158]
+('127.0.0.1', 63846): A:[4725]:35:gegvywpbeoajncemvrsx
+Sequence number received: [4725]
+('127.0.0.1', 63846): A:[5677]:36:pouleuqsookykwyhrwal
+Sequence number received: [5677]
+('127.0.0.1', 63846): A:[5889]:37:wrzgrdbikmymcpgyaqxw
+Sequence number received: [5889]
+('127.0.0.1', 63846): A:[4287]:38:crouxocgzeifzyrivqih
+Sequence number received: [4287]
+('127.0.0.1', 63846): A:[3652]:39:otijfghzgeojcslkosca
+Sequence number received: [3652]
+('127.0.0.1', 63846): A:[5685]:40:mgsfxgliwithhpbaqpgf
+Sequence number received: [5685]
+('127.0.0.1', 63846): A:[8236]:41:oreguvpdmzwmztaymmgs
+Sequence number received: [8236]
+('127.0.0.1', 63846): A:[3197]:42:sxhufbfhsdhoscgsafqa
+Sequence number received: [3197]
+('127.0.0.1', 63846): A:[2756]:43:etzzgtepqmatqpgpibii
+Sequence number received: [2756]
+('127.0.0.1', 63846): A:[3412]:44:yhbyyqyarsxpqze

@@ -1,0 +1,78 @@
+amitsharma@Amits-MacBook-Pro udp % python3 udp_client.py 
+Enter client id:a
+Sequence number sent:[6356]
+Sequence number received from server:[6356]
+SEQUENCE NO matched
+Sequence number sent:[1626]
+Sequence number received from server:[1626]
+SEQUENCE NO matched
+Sequence number sent:[6283]
+Sequence number received from server:[6283]
+SEQUENCE NO matched
+Sequence number sent:[5195]
+Sequence number received from server:[5195]
+SEQUENCE NO matched
+Sequence number sent:[7376]
+Sequence number received from server:[7376]
+SEQUENCE NO matched
+Sequence number sent:[7291]
+Sequence number received from server:[7291]
+SEQUENCE NO matched
+Sequence number sent:[3137]
+Sequence number received from server:[3137]
+SEQUENCE NO matched
+Sequence number sent:[5688]
+Sequence number received from server:[5688]
+SEQUENCE NO matched
+Sequence number sent:[2303]
+Sequence number received from server:[2303]
+SEQUENCE NO matched
+Sequence number sent:[6111]
+Sequence number received from server:[6111]
+SEQUENCE NO matched
+Sequence number sent:[3173]
+Sequence number received from server:[3173]
+SEQUENCE NO matched
+Sequence number sent:[1931]
+Sequence number received from server:[1931]
+SEQUENCE NO matched
+Sequence number sent:[6255]
+Sequence number received from server:[6255]
+SEQUENCE NO matched
+Sequence number sent:[10]
+Sequence number received from server:[10]
+SEQUENCE NO matched
+Sequence number sent:[6992]
+Sequence number received from server:[6992]
+SEQUENCE NO matched
+Sequence number sent:[157]
+Sequence number received from server:[157]
+SEQUENCE NO matched
+Sequence number sent:[9942]
+Sequence number received from server:[9942]
+SEQUENCE NO matched
+Sequence number sent:[2871]
+Sequence number received from server:[2871]
+SEQUENCE NO matched
+Sequence number sent:[6102]
+Sequence number received from server:[6102]
+SEQUENCE NO matched
+Sequence number sent:[7948]
+Sequence number received from server:[7948]
+SEQUENCE NO matched
+Sequence number sent:[5467]
+Sequence number received from server:[5467]
+SEQUENCE NO matched
+Sequence number sent:[780]
+Sequence number received from server:[780]
+SEQUENCE NO matched
+Sequence number sent:[3386]
+Sequence number received from server:[3386]
+SEQUENCE NO matched
+Sequence number sent:[3789]
+Sequence number received from server:[3789]
+SEQUENCE NO matched
+Sequence number sent:[1202]
+Sequence number received from server:[1202]
+SEQUENCE NO matched
+
